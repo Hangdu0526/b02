@@ -1,0 +1,2 @@
+# Demo 仅使用 Python 标准库，无需第三方 Python 依赖。
+# 接入自己的程序后，在这里填写依赖；docker build 时自动安装。
